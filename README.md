@@ -13,8 +13,8 @@ coding projects, which has helped me develop a sense of meticulousness and atten
   
  Hook Me up on And Lets Chart. 
  <br/>
- <a href="https://twitter.com/MuyindaRogers4" target="_blank" > @MuyindaRogers4</a>
-
+ Twitter : <a href="https://twitter.com/MuyindaRogers4" target="_blank" >@MuyindaRogers4</a> <br/>
+ Email : <a href="mailto:moverr@gmail.com">moverr@gmail.com</a> 
 <!--
 **Moverr/Moverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
