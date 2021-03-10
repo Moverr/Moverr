@@ -12,7 +12,9 @@ coding projects, which has helped me develop a sense of meticulousness and atten
  -I am currently in pursuit of Bigdata, Micro Services and Machine Learning 
   
  Hook Me up on And Lets Chart. 
- 
+- How to reach me
+            -[twitter](@MuyindaRogers4)
+            -[Email](mailto:moverr@gmail.com)
 
 <!--
 **Moverr/Moverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
