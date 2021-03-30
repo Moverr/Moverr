@@ -13,8 +13,7 @@ coding projects, which has helped me develop a sense of meticulousness and atten
   
  Hook Me up on And Lets Chart. 
  <br/>
- <strong>Twitter</strong> : <a href="https://twitter.com/MuyindaRogers4" target="_blank" >@MuyindaRogers4</a> <br/>
- <strong>Email</strong> : <a href="mailto:moverr@gmail.com">moverr@gmail.com</a> 
+
 <!--
 **Moverr/Moverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <strong>Twitter</strong> : <a href="https://twitter.com/MuyindaRogers4" target="_blank" >@MuyindaRogers4</a> <br/>
+ <strong>Email</strong> : <a href="mailto:moverr@gmail.com">moverr@gmail.com</a> 
 -->
