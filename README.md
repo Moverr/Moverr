@@ -11,7 +11,7 @@ coding projects, which has helped me develop a sense of meticulousness and atten
   
  -I am currently in pursuit of Bigdata, Micro Services and Machine Learning 
   
- Hook Me up on And Lets Chart. 
+ Hook Me up on And Lets Chart. [Email](moverr@gmail.com)
  <br/>
 
 <!--
