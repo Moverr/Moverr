@@ -1,3 +1,3 @@
 ### High 
--- scala,akka,slick,play,typelevel apis, cats, [zio]
+-- scala,akka,slick,play,typelevel apis, cats, [zio] <br/>
 Write me an email moverr@gmail.com
