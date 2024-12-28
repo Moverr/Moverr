@@ -1,9 +1,7 @@
-Hello! 😊
-I am well-versed in a spectrum of technologies, including Java, Spring Boot, Scala, Akka, Slick, Play, and Typelevel APIs, along with expertise in Cats and [ZIO]. My proficiency extends to developing robust applications and leveraging cutting-edge tools within the software development landscape.
+Hello, and welcome!
+I am a versatile software developer with extensive experience across a range of technologies, including Java, Spring Boot, Scala, Akka, Slick, Play Framework, and Typelevel APIs. My expertise also includes advanced functional programming with Cats and ZIO. I specialize in building robust, scalable applications and leveraging modern tools to create high-performance software solutions.
 
-If you have any inquiries, ideas, or opportunities that align with my skill set, I encourage you to reach out via email at moverr@gmail.com. I'm open to discussions, collaboration, and exciting projects. Let's connect and explore possibilities!
-
-Feel free to drop me a line. Looking forward to engaging in meaningful conversations and contributing to innovative endeavors. ✉
+I am open to discussing new opportunities, collaborations, and innovative projects that align with my skill set. Feel free to contact me via email at moverr@gmail.com. I look forward to exploring how we can work together and contribute to meaningful advancements in technology.
 
 Best regards,
-Muyinda Rogers 👍
+Muyinda Rogers
